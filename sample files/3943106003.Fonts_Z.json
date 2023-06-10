@@ -1,0 +1,2278 @@
+{
+  "Name CRC32": 3943106003,
+  "Link CRC32": 1395030197,
+  "Links": [
+    965076667,
+    187678173,
+    1027930892
+  ],
+  "Materials": [
+    965076667,
+    1027930892,
+    3735928559
+  ],
+  "Chars": [
+    {
+      "ID": "\u0001",
+      "Material Index": 0,
+      "Descent": 11.0,
+      "Top Left Coordinate": [
+        172.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        196.0,
+        25.0
+      ]
+    },
+    {
+      "ID": "\u0002",
+      "Material Index": 0,
+      "Descent": 11.0,
+      "Top Left Coordinate": [
+        146.0,
+        28.0
+      ],
+      "Bottom Right Coordinate": [
+        170.0,
+        52.0
+      ]
+    },
+    {
+      "ID": "\u0003",
+      "Material Index": 0,
+      "Descent": 11.0,
+      "Top Left Coordinate": [
+        1.0,
+        171.0
+      ],
+      "Bottom Right Coordinate": [
+        25.0,
+        195.0
+      ]
+    },
+    {
+      "ID": "\u0004",
+      "Material Index": 0,
+      "Descent": 11.0,
+      "Top Left Coordinate": [
+        177.0,
+        187.0
+      ],
+      "Bottom Right Coordinate": [
+        201.0,
+        211.0
+      ]
+    },
+    {
+      "ID": " ",
+      "Material Index": 0,
+      "Descent": 34.0,
+      "Top Left Coordinate": [
+        172.0,
+        26.0
+      ],
+      "Bottom Right Coordinate": [
+        180.0,
+        27.0
+      ]
+    },
+    {
+      "ID": "!",
+      "Material Index": 1,
+      "Descent": 4.0,
+      "Top Left Coordinate": [
+        136.0,
+        154.0
+      ],
+      "Bottom Right Coordinate": [
+        144.0,
+        184.0
+      ]
+    },
+    {
+      "ID": "\"",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        112.0,
+        240.0
+      ],
+      "Bottom Right Coordinate": [
+        127.0,
+        252.0
+      ]
+    },
+    {
+      "ID": "$",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        58.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        76.0,
+        36.0
+      ]
+    },
+    {
+      "ID": "%",
+      "Material Index": 0,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        1.0,
+        196.0
+      ],
+      "Bottom Right Coordinate": [
+        23.0,
+        224.0
+      ]
+    },
+    {
+      "ID": "&",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        92.0,
+        28.0
+      ],
+      "Bottom Right Coordinate": [
+        119.0,
+        61.0
+      ]
+    },
+    {
+      "ID": "'",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        34.0,
+        243.0
+      ],
+      "Bottom Right Coordinate": [
+        40.0,
+        254.0
+      ]
+    },
+    {
+      "ID": "(",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        175.0,
+        92.0
+      ],
+      "Bottom Right Coordinate": [
+        185.0,
+        127.0
+      ]
+    },
+    {
+      "ID": ")",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        176.0,
+        128.0
+      ],
+      "Bottom Right Coordinate": [
+        186.0,
+        163.0
+      ]
+    },
+    {
+      "ID": "*",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        128.0,
+        240.0
+      ],
+      "Bottom Right Coordinate": [
+        143.0,
+        255.0
+      ]
+    },
+    {
+      "ID": "+",
+      "Material Index": 1,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        20.0,
+        34.0
+      ],
+      "Bottom Right Coordinate": [
+        38.0,
+        58.0
+      ]
+    },
+    {
+      "ID": ",",
+      "Material Index": 0,
+      "Descent": 23.0,
+      "Top Left Coordinate": [
+        93.0,
+        212.0
+      ],
+      "Bottom Right Coordinate": [
+        99.0,
+        224.0
+      ]
+    },
+    {
+      "ID": "-",
+      "Material Index": 0,
+      "Descent": 17.0,
+      "Top Left Coordinate": [
+        196.0,
+        70.0
+      ],
+      "Bottom Right Coordinate": [
+        209.0,
+        78.0
+      ]
+    },
+    {
+      "ID": ".",
+      "Material Index": 0,
+      "Descent": 23.0,
+      "Top Left Coordinate": [
+        242.0,
+        26.0
+      ],
+      "Bottom Right Coordinate": [
+        250.0,
+        36.0
+      ]
+    },
+    {
+      "ID": "/",
+      "Material Index": 1,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        150.0,
+        107.0
+      ],
+      "Bottom Right Coordinate": [
+        163.0,
+        135.0
+      ]
+    },
+    {
+      "ID": "0",
+      "Material Index": 0,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        239.0,
+        62.0
+      ],
+      "Bottom Right Coordinate": [
+        254.0,
+        87.0
+      ]
+    },
+    {
+      "ID": "1",
+      "Material Index": 0,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        166.0,
+        213.0
+      ],
+      "Bottom Right Coordinate": [
+        176.0,
+        237.0
+      ]
+    },
+    {
+      "ID": "2",
+      "Material Index": 1,
+      "Descent": 8.0,
+      "Top Left Coordinate": [
+        15.0,
+        139.0
+      ],
+      "Bottom Right Coordinate": [
+        28.0,
+        163.0
+      ]
+    },
+    {
+      "ID": "3",
+      "Material Index": 1,
+      "Descent": 8.0,
+      "Top Left Coordinate": [
+        141.0,
+        50.0
+      ],
+      "Bottom Right Coordinate": [
+        154.0,
+        73.0
+      ]
+    },
+    {
+      "ID": "4",
+      "Material Index": 1,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        95.0,
+        81.0
+      ],
+      "Bottom Right Coordinate": [
+        110.0,
+        107.0
+      ]
+    },
+    {
+      "ID": "5",
+      "Material Index": 1,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        47.0,
+        123.0
+      ],
+      "Bottom Right Coordinate": [
+        60.0,
+        148.0
+      ]
+    },
+    {
+      "ID": "6",
+      "Material Index": 1,
+      "Descent": 8.0,
+      "Top Left Coordinate": [
+        33.0,
+        121.0
+      ],
+      "Bottom Right Coordinate": [
+        46.0,
+        145.0
+      ]
+    },
+    {
+      "ID": "7",
+      "Material Index": 0,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        242.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        255.0,
+        25.0
+      ]
+    },
+    {
+      "ID": "8",
+      "Material Index": 1,
+      "Descent": 8.0,
+      "Top Left Coordinate": [
+        69.0,
+        115.0
+      ],
+      "Bottom Right Coordinate": [
+        82.0,
+        139.0
+      ]
+    },
+    {
+      "ID": "9",
+      "Material Index": 1,
+      "Descent": 8.0,
+      "Top Left Coordinate": [
+        143.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        156.0,
+        25.0
+      ]
+    },
+    {
+      "ID": ":",
+      "Material Index": 0,
+      "Descent": 11.0,
+      "Top Left Coordinate": [
+        246.0,
+        213.0
+      ],
+      "Bottom Right Coordinate": [
+        254.0,
+        233.0
+      ]
+    },
+    {
+      "ID": ";",
+      "Material Index": 0,
+      "Descent": 13.0,
+      "Top Left Coordinate": [
+        246.0,
+        190.0
+      ],
+      "Bottom Right Coordinate": [
+        254.0,
+        212.0
+      ]
+    },
+    {
+      "ID": "?",
+      "Material Index": 1,
+      "Descent": 4.0,
+      "Top Left Coordinate": [
+        77.0,
+        34.0
+      ],
+      "Bottom Right Coordinate": [
+        94.0,
+        63.0
+      ]
+    },
+    {
+      "ID": "A",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        1.0,
+        144.0
+      ],
+      "Bottom Right Coordinate": [
+        25.0,
+        170.0
+      ]
+    },
+    {
+      "ID": "B",
+      "Material Index": 0,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        24.0,
+        217.0
+      ],
+      "Bottom Right Coordinate": [
+        44.0,
+        242.0
+      ]
+    },
+    {
+      "ID": "C",
+      "Material Index": 0,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        145.0,
+        213.0
+      ],
+      "Bottom Right Coordinate": [
+        165.0,
+        238.0
+      ]
+    },
+    {
+      "ID": "D",
+      "Material Index": 0,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        182.0,
+        116.0
+      ],
+      "Bottom Right Coordinate": [
+        206.0,
+        141.0
+      ]
+    },
+    {
+      "ID": "E",
+      "Material Index": 1,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        20.0,
+        59.0
+      ],
+      "Bottom Right Coordinate": [
+        38.0,
+        84.0
+      ]
+    },
+    {
+      "ID": "F",
+      "Material Index": 1,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        95.0,
+        29.0
+      ],
+      "Bottom Right Coordinate": [
+        112.0,
+        54.0
+      ]
+    },
+    {
+      "ID": "G",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        147.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        171.0,
+        27.0
+      ]
+    },
+    {
+      "ID": "H",
+      "Material Index": 0,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        77.0,
+        159.0
+      ],
+      "Bottom Right Coordinate": [
+        101.0,
+        184.0
+      ]
+    },
+    {
+      "ID": "I",
+      "Material Index": 1,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        97.0,
+        137.0
+      ],
+      "Bottom Right Coordinate": [
+        109.0,
+        162.0
+      ]
+    },
+    {
+      "ID": "J",
+      "Material Index": 1,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        164.0,
+        62.0
+      ],
+      "Bottom Right Coordinate": [
+        176.0,
+        91.0
+      ]
+    },
+    {
+      "ID": "K",
+      "Material Index": 0,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        26.0,
+        163.0
+      ],
+      "Bottom Right Coordinate": [
+        50.0,
+        189.0
+      ]
+    },
+    {
+      "ID": "L",
+      "Material Index": 1,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        39.0,
+        35.0
+      ],
+      "Bottom Right Coordinate": [
+        57.0,
+        60.0
+      ]
+    },
+    {
+      "ID": "M",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        1.0,
+        62.0
+      ],
+      "Bottom Right Coordinate": [
+        30.0,
+        89.0
+      ]
+    },
+    {
+      "ID": "N",
+      "Material Index": 0,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        171.0,
+        28.0
+      ],
+      "Bottom Right Coordinate": [
+        195.0,
+        53.0
+      ]
+    },
+    {
+      "ID": "O",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        207.0,
+        112.0
+      ],
+      "Bottom Right Coordinate": [
+        229.0,
+        138.0
+      ]
+    },
+    {
+      "ID": "P",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        198.0,
+        220.0
+      ],
+      "Bottom Right Coordinate": [
+        218.0,
+        246.0
+      ]
+    },
+    {
+      "ID": "Q",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        193.0,
+        82.0
+      ],
+      "Bottom Right Coordinate": [
+        215.0,
+        111.0
+      ]
+    },
+    {
+      "ID": "R",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        51.0,
+        180.0
+      ],
+      "Bottom Right Coordinate": [
+        75.0,
+        206.0
+      ]
+    },
+    {
+      "ID": "S",
+      "Material Index": 1,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        95.0,
+        55.0
+      ],
+      "Bottom Right Coordinate": [
+        110.0,
+        80.0
+      ]
+    },
+    {
+      "ID": "T",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        206.0,
+        142.0
+      ],
+      "Bottom Right Coordinate": [
+        228.0,
+        168.0
+      ]
+    },
+    {
+      "ID": "U",
+      "Material Index": 0,
+      "Descent": 8.0,
+      "Top Left Coordinate": [
+        197.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        217.0,
+        25.0
+      ]
+    },
+    {
+      "ID": "V",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        152.0,
+        186.0
+      ],
+      "Bottom Right Coordinate": [
+        176.0,
+        212.0
+      ]
+    },
+    {
+      "ID": "W",
+      "Material Index": 0,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        1.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        31.0,
+        28.0
+      ]
+    },
+    {
+      "ID": "X",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        127.0,
+        186.0
+      ],
+      "Bottom Right Coordinate": [
+        151.0,
+        212.0
+      ]
+    },
+    {
+      "ID": "Y",
+      "Material Index": 0,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        72.0,
+        212.0
+      ],
+      "Bottom Right Coordinate": [
+        92.0,
+        237.0
+      ]
+    },
+    {
+      "ID": "Z",
+      "Material Index": 1,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        19.0,
+        85.0
+      ],
+      "Bottom Right Coordinate": [
+        36.0,
+        110.0
+      ]
+    },
+    {
+      "ID": "[",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        163.0,
+        136.0
+      ],
+      "Bottom Right Coordinate": [
+        175.0,
+        171.0
+      ]
+    },
+    {
+      "ID": "]",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        150.0,
+        136.0
+      ],
+      "Bottom Right Coordinate": [
+        162.0,
+        171.0
+      ]
+    },
+    {
+      "ID": "^",
+      "Material Index": 0,
+      "Descent": 1.0,
+      "Top Left Coordinate": [
+        20.0,
+        243.0
+      ],
+      "Bottom Right Coordinate": [
+        33.0,
+        253.0
+      ]
+    },
+    {
+      "ID": "_",
+      "Material Index": 0,
+      "Descent": 29.0,
+      "Top Left Coordinate": [
+        63.0,
+        28.0
+      ],
+      "Bottom Right Coordinate": [
+        88.0,
+        34.0
+      ]
+    },
+    {
+      "ID": "a",
+      "Material Index": 0,
+      "Descent": 15.0,
+      "Top Left Coordinate": [
+        235.0,
+        237.0
+      ],
+      "Bottom Right Coordinate": [
+        248.0,
+        254.0
+      ]
+    },
+    {
+      "ID": "b",
+      "Material Index": 1,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        95.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        112.0,
+        28.0
+      ]
+    },
+    {
+      "ID": "c",
+      "Material Index": 0,
+      "Descent": 15.0,
+      "Top Left Coordinate": [
+        159.0,
+        239.0
+      ],
+      "Bottom Right Coordinate": [
+        171.0,
+        255.0
+      ]
+    },
+    {
+      "ID": "d",
+      "Material Index": 1,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        92.0,
+        108.0
+      ],
+      "Bottom Right Coordinate": [
+        107.0,
+        134.0
+      ]
+    },
+    {
+      "ID": "e",
+      "Material Index": 1,
+      "Descent": 15.0,
+      "Top Left Coordinate": [
+        157.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        169.0,
+        18.0
+      ]
+    },
+    {
+      "ID": "f",
+      "Material Index": 1,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        42.0,
+        149.0
+      ],
+      "Bottom Right Coordinate": [
+        52.0,
+        175.0
+      ]
+    },
+    {
+      "ID": "g",
+      "Material Index": 1,
+      "Descent": 13.0,
+      "Top Left Coordinate": [
+        141.0,
+        27.0
+      ],
+      "Bottom Right Coordinate": [
+        154.0,
+        49.0
+      ]
+    },
+    {
+      "ID": "h",
+      "Material Index": 1,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        77.0,
+        64.0
+      ],
+      "Bottom Right Coordinate": [
+        94.0,
+        91.0
+      ]
+    },
+    {
+      "ID": "i",
+      "Material Index": 0,
+      "Descent": 8.0,
+      "Top Left Coordinate": [
+        246.0,
+        165.0
+      ],
+      "Bottom Right Coordinate": [
+        254.0,
+        189.0
+      ]
+    },
+    {
+      "ID": "j",
+      "Material Index": 1,
+      "Descent": 10.0,
+      "Top Left Coordinate": [
+        53.0,
+        161.0
+      ],
+      "Bottom Right Coordinate": [
+        61.0,
+        185.0
+      ]
+    },
+    {
+      "ID": "k",
+      "Material Index": 1,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        1.0,
+        63.0
+      ],
+      "Bottom Right Coordinate": [
+        18.0,
+        90.0
+      ]
+    },
+    {
+      "ID": "l",
+      "Material Index": 1,
+      "Descent": 4.0,
+      "Top Left Coordinate": [
+        179.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        187.0,
+        29.0
+      ]
+    },
+    {
+      "ID": "m",
+      "Material Index": 0,
+      "Descent": 14.0,
+      "Top Left Coordinate": [
+        27.0,
+        117.0
+      ],
+      "Bottom Right Coordinate": [
+        52.0,
+        135.0
+      ]
+    },
+    {
+      "ID": "n",
+      "Material Index": 0,
+      "Descent": 14.0,
+      "Top Left Coordinate": [
+        219.0,
+        37.0
+      ],
+      "Bottom Right Coordinate": [
+        237.0,
+        54.0
+      ]
+    },
+    {
+      "ID": "o",
+      "Material Index": 0,
+      "Descent": 15.0,
+      "Top Left Coordinate": [
+        206.0,
+        169.0
+      ],
+      "Bottom Right Coordinate": [
+        221.0,
+        186.0
+      ]
+    },
+    {
+      "ID": "p",
+      "Material Index": 1,
+      "Descent": 13.0,
+      "Top Left Coordinate": [
+        1.0,
+        91.0
+      ],
+      "Bottom Right Coordinate": [
+        16.0,
+        113.0
+      ]
+    },
+    {
+      "ID": "q",
+      "Material Index": 1,
+      "Descent": 13.0,
+      "Top Left Coordinate": [
+        76.0,
+        92.0
+      ],
+      "Bottom Right Coordinate": [
+        91.0,
+        114.0
+      ]
+    },
+    {
+      "ID": "r",
+      "Material Index": 0,
+      "Descent": 13.0,
+      "Top Left Coordinate": [
+        216.0,
+        88.0
+      ],
+      "Bottom Right Coordinate": [
+        229.0,
+        106.0
+      ]
+    },
+    {
+      "ID": "s",
+      "Material Index": 1,
+      "Descent": 15.0,
+      "Top Left Coordinate": [
+        164.0,
+        113.0
+      ],
+      "Bottom Right Coordinate": [
+        174.0,
+        130.0
+      ]
+    },
+    {
+      "ID": "t",
+      "Material Index": 1,
+      "Descent": 11.0,
+      "Top Left Coordinate": [
+        164.0,
+        92.0
+      ],
+      "Bottom Right Coordinate": [
+        174.0,
+        112.0
+      ]
+    },
+    {
+      "ID": "u",
+      "Material Index": 0,
+      "Descent": 14.0,
+      "Top Left Coordinate": [
+        45.0,
+        234.0
+      ],
+      "Bottom Right Coordinate": [
+        62.0,
+        252.0
+      ]
+    },
+    {
+      "ID": "v",
+      "Material Index": 0,
+      "Descent": 14.0,
+      "Top Left Coordinate": [
+        219.0,
+        237.0
+      ],
+      "Bottom Right Coordinate": [
+        234.0,
+        255.0
+      ]
+    },
+    {
+      "ID": "w",
+      "Material Index": 0,
+      "Descent": 15.0,
+      "Top Left Coordinate": [
+        63.0,
+        35.0
+      ],
+      "Bottom Right Coordinate": [
+        85.0,
+        51.0
+      ]
+    },
+    {
+      "ID": "x",
+      "Material Index": 0,
+      "Descent": 16.0,
+      "Top Left Coordinate": [
+        230.0,
+        118.0
+      ],
+      "Bottom Right Coordinate": [
+        247.0,
+        134.0
+      ]
+    },
+    {
+      "ID": "y",
+      "Material Index": 1,
+      "Descent": 14.0,
+      "Top Left Coordinate": [
+        53.0,
+        101.0
+      ],
+      "Bottom Right Coordinate": [
+        68.0,
+        122.0
+      ]
+    },
+    {
+      "ID": "z",
+      "Material Index": 1,
+      "Descent": 15.0,
+      "Top Left Coordinate": [
+        29.0,
+        146.0
+      ],
+      "Bottom Right Coordinate": [
+        41.0,
+        163.0
+      ]
+    },
+    {
+      "ID": "{",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        155.0,
+        26.0
+      ],
+      "Bottom Right Coordinate": [
+        167.0,
+        61.0
+      ]
+    },
+    {
+      "ID": "}",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        136.0,
+        118.0
+      ],
+      "Bottom Right Coordinate": [
+        149.0,
+        153.0
+      ]
+    },
+    {
+      "ID": "~",
+      "Material Index": 0,
+      "Descent": 12.0,
+      "Top Left Coordinate": [
+        196.0,
+        61.0
+      ],
+      "Bottom Right Coordinate": [
+        214.0,
+        69.0
+      ]
+    },
+    {
+      "ID": "À",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        181.0,
+        154.0
+      ],
+      "Bottom Right Coordinate": [
+        205.0,
+        186.0
+      ]
+    },
+    {
+      "ID": "Á",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        168.0,
+        83.0
+      ],
+      "Bottom Right Coordinate": [
+        192.0,
+        115.0
+      ]
+    },
+    {
+      "ID": "Â",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        102.0,
+        159.0
+      ],
+      "Bottom Right Coordinate": [
+        126.0,
+        191.0
+      ]
+    },
+    {
+      "ID": "σ",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        120.0,
+        61.0
+      ],
+      "Bottom Right Coordinate": [
+        145.0,
+        87.0
+      ]
+    },
+    {
+      "ID": "τ",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        131.0,
+        126.0
+      ],
+      "Bottom Right Coordinate": [
+        156.0,
+        152.0
+      ]
+    },
+    {
+      "ID": "υ",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        121.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        146.0,
+        27.0
+      ]
+    },
+    {
+      "ID": "Ä",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        131.0,
+        153.0
+      ],
+      "Bottom Right Coordinate": [
+        155.0,
+        185.0
+      ]
+    },
+    {
+      "ID": "Ã",
+      "Material Index": 0,
+      "Descent": 1.0,
+      "Top Left Coordinate": [
+        156.0,
+        154.0
+      ],
+      "Bottom Right Coordinate": [
+        180.0,
+        185.0
+      ]
+    },
+    {
+      "ID": "π",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        76.0,
+        185.0
+      ],
+      "Bottom Right Coordinate": [
+        100.0,
+        211.0
+      ]
+    },
+    {
+      "ID": "ω",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        63.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        92.0,
+        27.0
+      ]
+    },
+    {
+      "ID": "с",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        49.0,
+        207.0
+      ],
+      "Bottom Right Coordinate": [
+        71.0,
+        233.0
+      ]
+    },
+    {
+      "ID": "у",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        177.0,
+        212.0
+      ],
+      "Bottom Right Coordinate": [
+        197.0,
+        241.0
+      ]
+    },
+    {
+      "ID": "Č",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        1.0,
+        29.0
+      ],
+      "Bottom Right Coordinate": [
+        31.0,
+        61.0
+      ]
+    },
+    {
+      "ID": "ό",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        53.0,
+        117.0
+      ],
+      "Bottom Right Coordinate": [
+        78.0,
+        149.0
+      ]
+    },
+    {
+      "ID": "Ê",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        39.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        57.0,
+        34.0
+      ]
+    },
+    {
+      "ID": "É",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        1.0,
+        30.0
+      ],
+      "Bottom Right Coordinate": [
+        19.0,
+        62.0
+      ]
+    },
+    {
+      "ID": "È",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        58.0,
+        37.0
+      ],
+      "Bottom Right Coordinate": [
+        76.0,
+        68.0
+      ]
+    },
+    {
+      "ID": "Ñ",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        157.0,
+        121.0
+      ],
+      "Bottom Right Coordinate": [
+        181.0,
+        153.0
+      ]
+    },
+    {
+      "ID": "Ç",
+      "Material Index": 1,
+      "Descent": 2.0,
+      "Top Left Coordinate": [
+        39.0,
+        61.0
+      ],
+      "Bottom Right Coordinate": [
+        57.0,
+        94.0
+      ]
+    },
+    {
+      "ID": "Ó",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        219.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        241.0,
+        36.0
+      ]
+    },
+    {
+      "ID": "Ô",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        196.0,
+        26.0
+      ],
+      "Bottom Right Coordinate": [
+        218.0,
+        60.0
+      ]
+    },
+    {
+      "ID": "Ε",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        62.0,
+        53.0
+      ],
+      "Bottom Right Coordinate": [
+        91.0,
+        85.0
+      ]
+    },
+    {
+      "ID": "Õ",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        101.0,
+        192.0
+      ],
+      "Bottom Right Coordinate": [
+        123.0,
+        224.0
+      ]
+    },
+    {
+      "ID": "Η",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        32.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        62.0,
+        33.0
+      ]
+    },
+    {
+      "ID": "Ö",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        202.0,
+        187.0
+      ],
+      "Bottom Right Coordinate": [
+        224.0,
+        219.0
+      ]
+    },
+    {
+      "ID": "Í",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        123.0,
+        140.0
+      ],
+      "Bottom Right Coordinate": [
+        135.0,
+        173.0
+      ]
+    },
+    {
+      "ID": "Ú",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        225.0,
+        169.0
+      ],
+      "Bottom Right Coordinate": [
+        245.0,
+        203.0
+      ]
+    },
+    {
+      "ID": "한",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        59.0,
+        86.0
+      ],
+      "Bottom Right Coordinate": [
+        86.0,
+        116.0
+      ]
+    },
+    {
+      "ID": "Ü",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        225.0,
+        204.0
+      ],
+      "Bottom Right Coordinate": [
+        245.0,
+        236.0
+      ]
+    },
+    {
+      "ID": "”",
+      "Material Index": 0,
+      "Descent": 3.0,
+      "Top Left Coordinate": [
+        63.0,
+        238.0
+      ],
+      "Bottom Right Coordinate": [
+        80.0,
+        252.0
+      ]
+    },
+    {
+      "ID": "ß",
+      "Material Index": 1,
+      "Descent": 3.0,
+      "Top Left Coordinate": [
+        77.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        94.0,
+        33.0
+      ]
+    },
+    {
+      "ID": "Р",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        32.0,
+        53.0
+      ],
+      "Bottom Right Coordinate": [
+        61.0,
+        85.0
+      ]
+    },
+    {
+      "ID": "á",
+      "Material Index": 1,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        127.0,
+        59.0
+      ],
+      "Bottom Right Coordinate": [
+        140.0,
+        86.0
+      ]
+    },
+    {
+      "ID": "™",
+      "Material Index": 0,
+      "Descent": 3.0,
+      "Top Left Coordinate": [
+        32.0,
+        34.0
+      ],
+      "Bottom Right Coordinate": [
+        62.0,
+        52.0
+      ]
+    },
+    {
+      "ID": "Σ",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        105.0,
+        126.0
+      ],
+      "Bottom Right Coordinate": [
+        130.0,
+        158.0
+      ]
+    },
+    {
+      "ID": "ã",
+      "Material Index": 1,
+      "Descent": 9.0,
+      "Top Left Coordinate": [
+        1.0,
+        114.0
+      ],
+      "Bottom Right Coordinate": [
+        16.0,
+        137.0
+      ]
+    },
+    {
+      "ID": "ä",
+      "Material Index": 1,
+      "Descent": 8.0,
+      "Top Left Coordinate": [
+        113.0,
+        29.0
+      ],
+      "Bottom Right Coordinate": [
+        126.0,
+        53.0
+      ]
+    },
+    {
+      "ID": "â",
+      "Material Index": 1,
+      "Descent": 3.0,
+      "Top Left Coordinate": [
+        127.0,
+        29.0
+      ],
+      "Bottom Right Coordinate": [
+        140.0,
+        58.0
+      ]
+    },
+    {
+      "ID": "§",
+      "Material Index": 1,
+      "Descent": 3.0,
+      "Top Left Coordinate": [
+        20.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        38.0,
+        33.0
+      ]
+    },
+    {
+      "ID": "à",
+      "Material Index": 1,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        129.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        142.0,
+        26.0
+      ]
+    },
+    {
+      "ID": "é",
+      "Material Index": 1,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        108.0,
+        111.0
+      ],
+      "Bottom Right Coordinate": [
+        121.0,
+        136.0
+      ]
+    },
+    {
+      "ID": "ê",
+      "Material Index": 1,
+      "Descent": 3.0,
+      "Top Left Coordinate": [
+        122.0,
+        111.0
+      ],
+      "Bottom Right Coordinate": [
+        135.0,
+        139.0
+      ]
+    },
+    {
+      "ID": "ë",
+      "Material Index": 1,
+      "Descent": 4.0,
+      "Top Left Coordinate": [
+        17.0,
+        111.0
+      ],
+      "Bottom Right Coordinate": [
+        32.0,
+        138.0
+      ]
+    },
+    {
+      "ID": "ά",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        115.0,
+        93.0
+      ],
+      "Bottom Right Coordinate": [
+        142.0,
+        125.0
+      ]
+    },
+    {
+      "ID": "국",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        31.0,
+        86.0
+      ],
+      "Bottom Right Coordinate": [
+        58.0,
+        116.0
+      ]
+    },
+    {
+      "ID": "έ",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        143.0,
+        88.0
+      ],
+      "Bottom Right Coordinate": [
+        167.0,
+        120.0
+      ]
+    },
+    {
+      "ID": "®",
+      "Material Index": 0,
+      "Descent": 3.0,
+      "Top Left Coordinate": [
+        171.0,
+        54.0
+      ],
+      "Bottom Right Coordinate": [
+        195.0,
+        81.0
+      ]
+    },
+    {
+      "ID": "î",
+      "Material Index": 1,
+      "Descent": 2.0,
+      "Top Left Coordinate": [
+        136.0,
+        87.0
+      ],
+      "Bottom Right Coordinate": [
+        149.0,
+        117.0
+      ]
+    },
+    {
+      "ID": "α",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        93.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        120.0,
+        27.0
+      ]
+    },
+    {
+      "ID": "ñ",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        229.0,
+        139.0
+      ],
+      "Bottom Right Coordinate": [
+        249.0,
+        164.0
+      ]
+    },
+    {
+      "ID": "ò",
+      "Material Index": 0,
+      "Descent": 8.0,
+      "Top Left Coordinate": [
+        239.0,
+        37.0
+      ],
+      "Bottom Right Coordinate": [
+        254.0,
+        61.0
+      ]
+    },
+    {
+      "ID": "어",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        92.0,
+        62.0
+      ],
+      "Bottom Right Coordinate": [
+        119.0,
+        92.0
+      ]
+    },
+    {
+      "ID": "δ",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        79.0,
+        126.0
+      ],
+      "Bottom Right Coordinate": [
+        104.0,
+        158.0
+      ]
+    },
+    {
+      "ID": "ε",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        27.0,
+        136.0
+      ],
+      "Bottom Right Coordinate": [
+        51.0,
+        162.0
+      ]
+    },
+    {
+      "ID": "η",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        146.0,
+        53.0
+      ],
+      "Bottom Right Coordinate": [
+        170.0,
+        82.0
+      ]
+    },
+    {
+      "ID": "и",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        1.0,
+        90.0
+      ],
+      "Bottom Right Coordinate": [
+        28.0,
+        116.0
+      ]
+    },
+    {
+      "ID": "й",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        87.0,
+        93.0
+      ],
+      "Bottom Right Coordinate": [
+        114.0,
+        125.0
+      ]
+    },
+    {
+      "ID": "κ",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        26.0,
+        190.0
+      ],
+      "Bottom Right Coordinate": [
+        48.0,
+        216.0
+      ]
+    },
+    {
+      "ID": "λ",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        120.0,
+        28.0
+      ],
+      "Bottom Right Coordinate": [
+        145.0,
+        60.0
+      ]
+    },
+    {
+      "ID": "μ",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        52.0,
+        150.0
+      ],
+      "Bottom Right Coordinate": [
+        76.0,
+        179.0
+      ]
+    },
+    {
+      "ID": "к",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        216.0,
+        61.0
+      ],
+      "Bottom Right Coordinate": [
+        238.0,
+        87.0
+      ]
+    },
+    {
+      "ID": "ν",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        124.0,
+        213.0
+      ],
+      "Bottom Right Coordinate": [
+        144.0,
+        239.0
+      ]
+    },
+    {
+      "ID": "ο",
+      "Material Index": 0,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        1.0,
+        117.0
+      ],
+      "Bottom Right Coordinate": [
+        26.0,
+        143.0
+      ]
+    },
+    {
+      "ID": "ú",
+      "Material Index": 0,
+      "Descent": 3.0,
+      "Top Left Coordinate": [
+        230.0,
+        88.0
+      ],
+      "Bottom Right Coordinate": [
+        248.0,
+        117.0
+      ]
+    },
+    {
+      "ID": "ù",
+      "Material Index": 0,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        1.0,
+        225.0
+      ],
+      "Bottom Right Coordinate": [
+        19.0,
+        250.0
+      ]
+    },
+    {
+      "ID": "û",
+      "Material Index": 0,
+      "Descent": 3.0,
+      "Top Left Coordinate": [
+        93.0,
+        225.0
+      ],
+      "Bottom Right Coordinate": [
+        111.0,
+        254.0
+      ]
+    },
+    {
+      "ID": "ü",
+      "Material Index": 1,
+      "Descent": 4.0,
+      "Top Left Coordinate": [
+        1.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        19.0,
+        29.0
+      ]
+    },
+    {
+      "ID": "¿",
+      "Material Index": 1,
+      "Descent": 4.0,
+      "Top Left Coordinate": [
+        58.0,
+        69.0
+      ],
+      "Bottom Right Coordinate": [
+        75.0,
+        100.0
+      ]
+    },
+    {
+      "ID": "ö",
+      "Material Index": 1,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        37.0,
+        95.0
+      ],
+      "Bottom Right Coordinate": [
+        52.0,
+        120.0
+      ]
+    },
+    {
+      "ID": "õ",
+      "Material Index": 1,
+      "Descent": 7.0,
+      "Top Left Coordinate": [
+        111.0,
+        55.0
+      ],
+      "Bottom Right Coordinate": [
+        126.0,
+        80.0
+      ]
+    },
+    {
+      "ID": "ô",
+      "Material Index": 1,
+      "Descent": 3.0,
+      "Top Left Coordinate": [
+        111.0,
+        81.0
+      ],
+      "Bottom Right Coordinate": [
+        126.0,
+        110.0
+      ]
+    },
+    {
+      "ID": "ó",
+      "Material Index": 1,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        113.0,
+        1.0
+      ],
+      "Bottom Right Coordinate": [
+        128.0,
+        28.0
+      ]
+    },
+    {
+      "ID": "°",
+      "Material Index": 0,
+      "Descent": 3.0,
+      "Top Left Coordinate": [
+        145.0,
+        239.0
+      ],
+      "Bottom Right Coordinate": [
+        158.0,
+        253.0
+      ]
+    },
+    {
+      "ID": "ί",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        150.0,
+        74.0
+      ],
+      "Bottom Right Coordinate": [
+        163.0,
+        106.0
+      ]
+    },
+    {
+      "ID": "š",
+      "Material Index": 1,
+      "Descent": 4.0,
+      "Top Left Coordinate": [
+        83.0,
+        135.0
+      ],
+      "Bottom Right Coordinate": [
+        96.0,
+        163.0
+      ]
+    },
+    {
+      "ID": "è",
+      "Material Index": 1,
+      "Descent": 8.0,
+      "Top Left Coordinate": [
+        1.0,
+        138.0
+      ],
+      "Bottom Right Coordinate": [
+        14.0,
+        161.0
+      ]
+    },
+    {
+      "ID": "ç",
+      "Material Index": 1,
+      "Descent": 15.0,
+      "Top Left Coordinate": [
+        61.0,
+        140.0
+      ],
+      "Bottom Right Coordinate": [
+        73.0,
+        160.0
+      ]
+    },
+    {
+      "ID": "ι",
+      "Material Index": 1,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        110.0,
+        140.0
+      ],
+      "Bottom Right Coordinate": [
+        122.0,
+        166.0
+      ]
+    },
+    {
+      "ID": "²",
+      "Material Index": 0,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        81.0,
+        238.0
+      ],
+      "Bottom Right Coordinate": [
+        91.0,
+        254.0
+      ]
+    },
+    {
+      "ID": "ì",
+      "Material Index": 1,
+      "Descent": 5.0,
+      "Top Left Coordinate": [
+        168.0,
+        19.0
+      ],
+      "Bottom Right Coordinate": [
+        178.0,
+        46.0
+      ]
+    },
+    {
+      "ID": "º",
+      "Material Index": 1,
+      "Descent": 0.0,
+      "Top Left Coordinate": [
+        1.0,
+        162.0
+      ],
+      "Bottom Right Coordinate": [
+        11.0,
+        177.0
+      ]
+    },
+    {
+      "ID": "¡",
+      "Material Index": 1,
+      "Descent": 6.0,
+      "Top Left Coordinate": [
+        74.0,
+        140.0
+      ],
+      "Bottom Right Coordinate": [
+        82.0,
+        169.0
+      ]
+    },
+    {
+      "ID": "í",
+      "Material Index": 1,
+      "Descent": 4.0,
+      "Top Left Coordinate": [
+        177.0,
+        47.0
+      ],
+      "Bottom Right Coordinate": [
+        185.0,
+        75.0
+      ]
+    }
+  ]
+}
