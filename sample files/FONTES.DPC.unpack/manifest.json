@@ -1,0 +1,60 @@
+{
+  "header": {
+    "version_string": "v1.06.63.02 - Asobo Studio - Internal Cross Technology",
+    "version_minor": 435,
+    "version_patch": 239,
+    "block_type": 119,
+    "is_rtc": false,
+    "pool_manifest_unused": 4294967295,
+    "incredi_builder_string": ""
+  },
+  "blocks": [
+    {
+      "offset": 65536,
+      "objects": [
+        {
+          "crc32": 1027930892,
+          "compress": true
+        },
+        {
+          "crc32": 965076667,
+          "compress": true
+        },
+        {
+          "crc32": 3943106003,
+          "compress": true
+        },
+        {
+          "crc32": 1429334513,
+          "compress": true
+        },
+        {
+          "crc32": 187678173,
+          "compress": true
+        }
+      ]
+    },
+    {
+      "offset": 67584,
+      "objects": [
+        {
+          "crc32": 2243282520,
+          "compress": true
+        },
+        {
+          "crc32": 1715090332,
+          "compress": false
+        },
+        {
+          "crc32": 3735928559,
+          "compress": false
+        }
+      ]
+    }
+  ],
+  "pool": {
+    "object_entry_indices": [],
+    "object_entries": [],
+    "reference_records": []
+  }
+}
